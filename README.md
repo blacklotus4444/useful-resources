@@ -1,2 +1,2 @@
 # useful-resources
-useful resources for cyber-security
+useful resources for the hackenz
